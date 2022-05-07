@@ -114,6 +114,7 @@
     color: black;
 }
 .a-line{
+    color: #000;
     text-decoration: none;
 }
 .subscribe{
@@ -279,3 +280,24 @@ height: 400px;
     width: 195px;
     margin: 50px 0 50px 276px;
 }
+
+
+/* Contact Us */
+.inner_page_head{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.label{
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+.contact_title{
+    padding-top: 15px;
+    padding-bottom: 19px;
+    font-size: 29px;
+}
+.contact_desc{
+    font-size: 13px;
+    padding-bottom: 19px;
+}
+
