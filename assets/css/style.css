@@ -1,4 +1,4 @@
-
+/* Header Classes*/
 .grey_top_banner{
     background-color: rgb(246, 246, 246);
     height: 50px;
@@ -46,4 +46,100 @@
     padding-right: 9px;
     font-size:14px;
     position: relative;
+}
+
+
+/* Footer Classes */
+.foot_banner1{
+	letter-spacing: 2.5px;
+}
+.black_banner{
+    background-color: #000;
+    color: white;
+    margin-top: 10px;
+}
+.font{
+    font-size: 13px;
+}
+.sml_img{
+    width: 72px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+
+}
+.star_img{
+    width: 120px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    height: 160px;
+}
+.space{
+    padding-top: 9px;
+    padding-bottom: 6px;
+}
+.link{
+    text-decoration: underline;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+.size{
+    justify-content: center;
+    height:320px;
+}
+.icon{
+    width: 105px;
+    padding-top: 50px;
+
+}
+.list_title{
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    list-style-type: none; 
+
+}
+.list_items{
+    font-size: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    list-style-type: none; 
+    text-decoration: none;
+    color: black;
+}
+.a-line{
+    text-decoration: none;
+}
+.subscribe{
+    padding-top: 30px;
+}
+.sub{ 
+    position: relative;   
+    font-size: 14px;
+    border: 1px solid black;
+    width: 67%;
+}
+.sub_btn{
+    height: 39px;
+    background: #000;
+    color: white;
+    border: none;
+    padding: 0px 20px;
+    position: absolute;
+    top: 30px;
+    bottom: 0;
+    right: -10px;
+}
+.grey_btm_banner{
+    background: rgb(246, 246, 246);
+}
+
+.foot_banner3{
+
+}
+.pad{
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.link{
+    font-size: 25px;
 }
