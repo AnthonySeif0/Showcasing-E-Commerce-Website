@@ -301,3 +301,34 @@ height: 400px;
     padding-bottom: 19px;
 }
 
+.box-info{
+    border: 1px solid rgb(129, 129, 129);
+    border-radius: 8px;
+    width: 100%;
+    height: 50px !important;
+}
+.box-mssg{
+    border: 1px solid rgb(129, 129, 129);
+    border-radius: 8px;
+    width: 100%;
+}
+.placeholder-info{
+    color: rgb(129, 129, 129); 
+    font-size: 13px;
+}
+.placeholder-mssg{
+    color: rgb(129, 129, 129); 
+    font-size: 13px;
+    left: 10px !important;
+}
+.form-control:focus{
+    border-color: #202529;
+    box-shadow: 0 0 0 0.25rem rgb(43 48 54 / 25%);
+}
+.sub-btn{
+    width: 100px;
+    margin-top: 50px;
+    border: 0px;
+    border-radius: 0px;
+    float: right;
+}
