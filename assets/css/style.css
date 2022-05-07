@@ -1,0 +1,49 @@
+
+.grey_top_banner{
+    background-color: rgb(246, 246, 246);
+    height: 50px;
+    padding-top: 10px;
+    }
+.icons{
+    width: 15px;
+}
+.icons_search{
+    width: 13px;
+}
+.icons_fav{
+    width: 500px;
+}
+.float{
+    float: right;
+    display:inline-flex;
+    list-style-type: none;
+}
+.gap{
+    padding-right: 9px;
+    padding-left: 9px;
+    width: 30px;
+}
+.banner2{
+	border-bottom: 2px solid rgb(246, 246, 246) ;
+}
+
+.menu{
+    display:inline-flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    list-style-type: none;  
+}
+.gap1{
+    padding-right: 9px;
+    padding-left: 9px;
+}
+.main_logo{
+    width: 375px;
+    height: 100px;
+}
+.menu-item{
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size:14px;
+    position: relative;
+}
