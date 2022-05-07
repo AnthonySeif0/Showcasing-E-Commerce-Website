@@ -1,3 +1,10 @@
+/* @font-face{
+    font-family: "bw";
+    src: "assets/fonts/Broadwell-Distressed.otf"
+}
+.main-font{
+    font-family:"bw";
+} */
 /* Header Classes*/
 .grey_top_banner{
     background-color: rgb(246, 246, 246);
@@ -143,3 +150,34 @@
 .link{
     font-size: 25px;
 }
+
+/* Index */
+.img_show{
+    letter-spacing: 2px;
+}
+.margin{
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.pad{
+    padding-top: 35px;
+    padding-bottom: 25px;
+
+}
+.title1{
+    font-size: 14px;
+}
+.title2{
+    
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.btn1{
+    font-size: 13px;
+    border-radius: 0px;
+    width: 195px;
+    text-align: center;
+    margin: 0 auto;
+} 
