@@ -476,9 +476,9 @@ top: 40%;
 .art_img{
     height: 515px;
     width: 614px;
-    .art_img_size{
-        width: 100%;
-    }
+}
+.art_img_size{
+    width: 100%;
 }
 .art_link{
     font-size: 13px;
