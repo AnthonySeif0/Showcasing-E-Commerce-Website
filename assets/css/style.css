@@ -543,3 +543,40 @@ top: 40%;
 	text-align: center;
 }
 
+/* Collections  */
+
+.collections{
+    margin-top:25px;
+    letter-spacing: 2px;
+}
+.coll_title{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+.coll_sub{
+    padding-bottom: 50px;
+    font-size: 13px;
+}
+.title1{
+    font-size: 14px;
+    padding-top: 20px;
+}
+.title2{
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.btn1{
+    font-size: 13px;
+    border-radius: 0px;
+    width: 210px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.coll_desc1{
+    margin-top: 30px;
+    margin-bottom: 75px;
+}
+
